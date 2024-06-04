@@ -1,0 +1,5 @@
+package com.mycompany.dragonball;
+
+public interface Transformavel {
+    public int Transformar(int nivel);    
+}
