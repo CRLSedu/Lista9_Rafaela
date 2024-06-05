@@ -1,9 +1,5 @@
 package com.mycompany.dragonball;
 
-/**
- *
- * @author Swat
- */
 public abstract class personagemDragonBall {
    
     protected String  nome,sexo,poderEspecial ;
